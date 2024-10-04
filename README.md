@@ -19,6 +19,13 @@ The Hisaab app was built using the following technologies:
 ## Design
 All components and artwork in Hisaab are completely hand-drawn, and the entire UI was custom-designed and implemented from scratch. The app reflects a personalized touch that enhances the user experience.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1be8fc13-e1c3-4371-972c-fa0c82480c98" alt="Image 1" width="300" height='620'/>
+  <img src="https://github.com/user-attachments/assets/47859d94-b357-402b-ac12-66d8cdbecb53" alt="Image 2" width="300" height='620'/>
+</p>
+
+
 ## Team Members
 Hisaab was developed as part of a **Software Engineering** course by a group of passionate students:
 - **Ahmad Shamail (Me)**
